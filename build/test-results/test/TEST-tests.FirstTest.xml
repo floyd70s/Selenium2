@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.FirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-08T22:46:40" hostname="MacBook-Pro-de-Claudio.local" time="8.022">
+  <properties/>
+  <testcase name="firstTest" classname="tests.FirstTest" time="8.022"/>
+  <system-out><![CDATA[element[[ChromeDriver: chrome on MAC (a2f12412eb0e20b9f2d8045530850bdb)] -> name: q]
+time to wait:300
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 29189
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun. 08, 2022 6:46:42 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
